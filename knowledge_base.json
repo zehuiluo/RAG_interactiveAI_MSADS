@@ -1,0 +1,87 @@
+[
+  {
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/",
+    "title": "Program Overview",
+    "text": "The University of Chicago MS in Applied Data Science (MSADS) equips students with in-demand expertise and an unparalleled alumni network. Offered In-Person at NBC Tower and Gleacher Center in downtown Chicago, and Online for working professionals with 2+ years experience. Both formats share the same rigorous curriculum, faculty, and Physical Sciences Division degree. The program is STEM-designated by the US Department of Homeland Security, making full-time in-person graduates eligible to apply for OPT extension. The program offers two tracks: a 12-course standard track and an 18-course thesis track launching AY 2026-27."
+  },
+  {
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/course-progressions/",
+    "title": "Core Courses",
+    "text": "The MSADS program has 6 required core courses that every student must complete: (1) Statistical Analysis — foundations of statistical inference, probability, and modeling; (2) Machine Learning I — classical machine learning methods including linear models, decision trees, SVMs, ensemble methods, and predictive modeling techniques; (3) Machine Learning II and Deep Learning and Generative AI — extends ML I into deep learning, neural networks, convolutional networks, transformers, and generative AI methods like LLMs and diffusion models; (4) Data Engineering Platforms — big data infrastructure covering Linux, Hadoop, Spark, PySpark, Docker, Kubernetes, NoSQL, JSON stores, Elasticsearch, and cloud computing; (5) Applied Data Science with Python — hands-on Python for data science including pandas, NumPy, scikit-learn, and end-to-end project pipelines; (6) Time Series Analysis and Forecasting — ARIMA, SARIMA, exponential smoothing, Prophet, LSTM for time series, seasonal decomposition. Machine Learning I and Machine Learning II are both core required courses."
+  },
+  {
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/course-progressions/",
+    "title": "Elective Courses",
+    "text": "Students choose 4 electives from a rotating list. Past electives include: Generative AI Principles (covering LLMs, prompt engineering, RAG systems, agents), Advanced Computer Vision with Deep Learning (CNNs, object detection, segmentation), Advanced Machine Learning and Artificial Intelligence, Bayesian Machine Learning with GenAI Applications, Data Science for Algorithmic Marketing, Data Visualization Techniques (ADSP 32007 — Tableau, D3.js, storytelling), Digital Marketing Analytics in Theory and Practice, Quantitative Finance Methods and Applications (ADSP 32001 — financial modeling, investment strategies), Data Science for Healthcare and Health Analytics, Machine Learning Operations MLOps (model deployment, monitoring, CI/CD for ML), Next-Gen NLP LLM and Agentic AI in Practice, Real Time Intelligent Systems, Deep Reinforcement Learning, Supply Chain Optimization (ADSP 32025 — logistics, demand forecasting, optimization). Elective offerings vary by quarter."
+  },
+  {
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/course-progressions/",
+    "title": "Capstone Project",
+    "text": "The Capstone is a required 2-quarter project completed with a real industry or research partner. Students apply their full skill set to solve a genuine business or research problem. Deliverables include a formal research paper, a business presentation, and a live presentation at the Capstone Showcase before a judging panel of industry experts. Full-time students begin the Capstone in their third quarter. Part-time students generally begin in their fifth quarter. Some students choose a research Capstone instead of an industry Capstone. The Capstone experience differentiates UChicago graduates in the job market."
+  },
+  {
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/course-progressions/",
+    "title": "Career Seminar",
+    "text": "The Career Seminar is a required Pass/Fail course taken every quarter throughout the program. It is completely free — there is no tuition or fee associated with it. The seminar covers identifying industry skills, exploring the broad array of data science job roles, determining which companies are the best fit, resume writing, interview preparation, networking strategies, and job search techniques. Students with 3 or more years of relevant full-time professional work experience may petition to waive the Career Seminar requirement."
+  },
+  {
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/course-progressions/",
+    "title": "Foundational Courses",
+    "text": "Four optional noncredit foundational courses are available at no cost to help students prepare: (1) Introduction to Statistical Concepts (pre-quarter, covers probability, distributions, hypothesis testing); (2) R for Data Science (pre-quarter, covers R programming, ggplot2, dplyr, tidyverse); (3) Python for Data Science (covers Python basics, pandas, NumPy, Jupyter); (4) Advanced Linear Algebra for Machine Learning (offered during second 5 weeks of first Autumn quarter, covers vectors, matrices, eigenvalues, SVD essential for ML). Since AY 2024-25 all entering students complete a required Foundational Skills Assessment to help faculty advise which foundational courses to take."
+  },
+  {
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/",
+    "title": "Admissions Requirements",
+    "text": "To apply to the MSADS program you need: a bachelor's degree (required, any field); two letters of recommendation (at least one must come from a professional supervisor, manager, or employer — not from family, friends, or peers); a candidate statement explaining your goals and qualifications; an updated resume; a short recorded video response to an application prompt; an optional programming supplement of up to 2 pages showing R or Python code skills (PDF format); and a $90 non-refundable application fee (fee waivers available per PSD policy). No GRE is required. For non-native English speakers: TOEFL minimum 102 or IELTS minimum 7.0 required unless you have 2+ years of US work or study experience."
+  },
+  {
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/events-deadlines/",
+    "title": "Application Deadlines",
+    "text": "The final application deadline for Autumn 2026 entry is June 23, 2026, for all applicants — full-time and part-time, in-person and online. Admissions decisions are typically released 1 to 2 months after each deadline. International students who need a new F-1 visa and missed the January 2026 deadline must apply for the Autumn 2027 cycle. F-1 students currently studying in the US and transferring their SEVIS record from another institution may still apply by the remaining deadlines for Autumn 2026."
+  },
+  {
+    "url": "https://datascience.uchicago.edu/education/tuition-fees-aid/",
+    "title": "Tuition and Financial Aid",
+    "text": "Tuition for the MSADS program is $6,384 per course, subject to a 3-7% annual increase per fiscal year. The 12-course program totals approximately $76,608 or more. The 18-course thesis track totals approximately $114,912 or more. There is a $1,500 non-refundable enrollment deposit that is credited toward your first quarter tuition. The Career Seminar is completely free. All foundational noncredit courses are also free. The program awards merit-based partial scholarships competitively — these are announced at the time of admission. For full cost of attendance details including living expenses, visit the Graduate Financial Aid Office. There is no need-based aid, only merit scholarships."
+  },
+  {
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/career-outcomes/",
+    "title": "Career Outcomes",
+    "text": "MSADS graduates achieve exceptional career outcomes. The most common role is Data Scientist, followed by Data Engineer, Data Analyst, Machine Learning Engineer, AI Solution Architect, Business Intelligence Director, Senior Data Science Consultant, and Data Visualization Manager. Top employers recruiting UChicago MSADS graduates include JPMorganChase, Google, Amazon, Microsoft, McKinsey, Deloitte, and many other Fortune 500 companies across technology, financial services, healthcare, and consulting industries. According to the US Bureau of Labor Statistics, data science employment is projected to grow 36% from 2023 to 2033 — far above the average for all occupations. The Career Services team provides tailored advising, employer partnerships, virtual career fairs, and resume and interview coaching throughout the program."
+  },
+  {
+    "url": "https://datascience.uchicago.edu/education/masters-programs/in-person-program/",
+    "title": "In-Person Program Format",
+    "text": "The In-Person MSADS program is held at NBC Tower and Gleacher Center in downtown Chicago. Most classes run 6-9pm Monday through Thursday, with some Friday and Saturday offerings. This evening and weekend schedule allows students to hold internships or part-time jobs during the program. Select courses are offered during the day for full-time students. Part-time students take 2 courses per quarter. Full-time students take 3 courses per quarter. The program is STEM-designated and F-1 visa eligible. The standard full-time track takes 12-15 months. A new 2-year (21-month) thesis track for full-time students launches AY 2026-27."
+  },
+  {
+    "url": "https://datascience.uchicago.edu/education/masters-programs/online-program/",
+    "title": "Online Program",
+    "text": "The MSADS Online program offers the exact same degree, curriculum, faculty, and academic rigor as the In-Person program. The diploma does not indicate that the degree was completed online. The Online program is designed for working professionals who have 2 or more years of full-time professional experience. It does not provide F-1 visa sponsorship, but is open to international students regardless of citizenship or residency status. Online students may not cross-enroll in In-Person courses. The curriculum is reviewed annually to keep pace with the evolving data science field."
+  },
+  {
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/faqs/",
+    "title": "Visa and International Students",
+    "text": "The full-time In-Person MSADS program is STEM-designated by the US Department of Homeland Security. This allows eligible graduates to apply for the 3-year STEM OPT extension after their initial 12-month OPT period, giving up to 3 additional years of work authorization in the US. However, STEM OPT approval is at the discretion of US Citizenship and Immigration Services and is not guaranteed. The program is F-1 visa eligible for full-time in-person students. Curricular Practical Training (CPT) is also available. The Online program does not provide visa sponsorship."
+  },
+  {
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/faqs/",
+    "title": "Program Tracks and Structure",
+    "text": "The MSADS program offers three pathways. (1) 12-Course Track: 6 core courses + 4 electives + 2 Capstone courses + Career Seminar, completed in approximately 12-15 months full-time or longer part-time. This is the standard pathway. (2) 18-Course Thesis Track (launching AY 2026-27): 21 months, for full-time in-person students who want a research-intensive experience leading to a written thesis or thesis project — ideal for those considering PhD programs or research careers. (3) Joint MBA/MS with Booth School of Business: apply through Booth's admissions process. All tracks require 1,200 units for completion."
+  },
+  {
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/faqs/",
+    "title": "Faculty and Admissions Contacts",
+    "text": "Key faculty include David Uminsky PhD (Executive Director, UChicago Data Science Institute), Arnab Bose (Associate Clinical Professor, teaches Generative AI Principles), and Don Patchell (Associate Clinical Professor). Instructors include Anil Chaturvedi (Statistical Models for Data Science) and Gregory Green. Admissions contacts: Jose Alvarado (Associate Director, In-Person program), Patrick Vonesh (Senior Assistant Director, Online program), and Matthew Harris-Ridker (Assistant Director of Enrollment Management). The program is administered by the Physical Sciences Division of the University of Chicago."
+  },
+  {
+    "url": "https://applieddatascience.psd.uchicago.edu/academics/curriculum/",
+    "title": "Machine Learning Courses Detail",
+    "text": "Machine Learning I (ADSP 31017) is a required core course covering supervised and unsupervised learning: linear regression, logistic regression, decision trees, random forests, gradient boosting, support vector machines, k-means clustering, dimensionality reduction (PCA, t-SNE), and model evaluation techniques including cross-validation and hyperparameter tuning. Machine Learning II and Deep Learning (ADSP 31018) is the required follow-on core course. It covers neural networks from scratch, convolutional neural networks (CNNs) for computer vision, recurrent neural networks (RNNs) and LSTMs for sequences, transformers and attention mechanisms, large language models (LLMs), generative AI including GANs and diffusion models, and transfer learning. Both Machine Learning I and Machine Learning II are mandatory core courses in the MSADS curriculum."
+  },
+  {
+    "url": "https://applieddatascience.psd.uchicago.edu/academics/curriculum/",
+    "title": "Data Engineering and Python Courses",
+    "text": "Data Engineering Platforms (ADSP 31012) is a required core course covering the full big data stack: Linux command line, distributed computing with Hadoop and Spark, PySpark for large-scale data processing, NoSQL databases (MongoDB, Cassandra, Elasticsearch), JSON and object storage, cloud computing fundamentals, virtualization, Docker containers, and Kubernetes orchestration. Students gain hands-on experience deploying data pipelines in cloud environments. Applied Data Science with Python covers the complete Python data science ecosystem: NumPy for numerical computing, pandas for data manipulation, scikit-learn for machine learning, Matplotlib and Seaborn for visualization, Jupyter notebooks, and building end-to-end data science projects."
+  }
+]
